@@ -123,6 +123,13 @@ All bugs identified in v2 have been fixed:
 This tool is for **research assistance only**. It does not constitute investment advice or a recommendation to buy or sell any security. All findings are AI-generated inferences from the source material you provide and must be independently verified by a qualified human analyst before being acted upon. Epistemic labels (Verified Fact, Inference, Hypothesis, Open Question) are applied by the model and may be incorrect.
 
 ---
+👤 Author
+
+Built by Brian as a portfolio project for real estate investment and data analytics
+
+LinkedIn: https://www.linkedin.com/in/brianztp
+🔗 Live demo: https://student-housing-dashboard-htev5kxd4hzyz6jnyjdbuc.streamlit.app
+| 💻 Code: https://github.com/immabot-beep/student-housing-dashboard
 
 ## License
 
